@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "linkedin-profile-optimizer": {
+      "source": "paramchoudhary/resumeskills",
+      "sourceType": "github",
+      "skillPath": "skills/linkedin-profile-optimizer/SKILL.md",
+      "computedHash": "2d49d4fb126ddfdc630542e0844e87822abb8960030788de7cafa5deae7d736c"
+    }
+  }
+}
